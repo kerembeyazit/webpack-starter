@@ -2,7 +2,7 @@
   "name": "Webpack-starter",
   "version": "1.0.0",
   "description": "Webpack starter boilerplate",
-  "private": true,
+  "private": false,
   "scripts": {
     "start": "node server.js",
     "build": "webpack --config configuration/webpack.dev.config.js --mode=production",
